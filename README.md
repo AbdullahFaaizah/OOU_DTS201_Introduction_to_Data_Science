@@ -1,5 +1,12 @@
 # OOU_DTS201_Introduction_to_Data_Science
-Practical notebooks and mini-projects for DTS 201 – Introduction to Data Science (Olabisi Onabanjo University).
+
+Lecture note, Practical notebooks and mini-projects for DTS 201 – Introduction to Data Science (Olabisi Onabanjo University).
+
+
+
+Lecture Note (Google Docs)
+[https://docs.google.com/document/d/your-file-id](https://docs.google.com/document/d/1GoWb_x03bjTmQxxEhYeJJBNPrULVQnn5/edit?usp=sharing&ouid=105710993054316348094&rtpof=true&sd=true)
+
 
 
 ## 🧪 Practical Notebooks
