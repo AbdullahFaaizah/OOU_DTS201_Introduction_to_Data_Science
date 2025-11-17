@@ -51,3 +51,9 @@ Notebook: `notebooks/DTS201_Week5_PH_Student_Centred.ipynb`
 Notebook: `notebooks/DTS201_Week6_PH_Student_Centred.ipynb`  
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/OOU_DTS201_Introduction_to_Data_Science/blob/main/notebooks/DTS201_Week6_PH_Student_Centred.ipynb)
+
+### Week 7 – STATISTICAL ANALYSIS – T-TESTS, CHI-SQUARE & CORRELATION
+
+Notebook: `notebooks/DTS201_Week7_PH_Student_Centred.ipynb`  
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/OOU_DTS201_Introduction_to_Data_Science/blob/main/notebooks/DTS201_Week7_PH_Student_Centred.ipynb)
