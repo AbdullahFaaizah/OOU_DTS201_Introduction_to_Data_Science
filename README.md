@@ -73,3 +73,9 @@ BIG DATA, LARGE FILES & WORKING IN JUPYTER / GOOGLE COLAB
 Notebook: `notebooks/DTS201_Week9_PH_Student_Centred.ipynb`  
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/OOU_DTS201_Introduction_to_Data_Science/blob/main/notebooks/DTS201_Week9_PH_Student_Centred.ipynb)
+
+### Week 10 – PYTHON PROGRAMMING FOR DATA SCIENCE – BASICS
+
+Notebook: `notebooks/DTS201_Week10_PH_Student_Centred.ipynb`  
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakinat-Folorunso/OOU_DTS201_Introduction_to_Data_Science/blob/main/notebooks/DTS201_Week10_PH_Student_Centred.ipynb)
